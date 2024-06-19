@@ -51,6 +51,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="40" alt="aftereffects logo" />
 </div>
 
+<h3 align="left">📚 Пройденные курсы:</h3>
+
+| Название курса                                             | Ссылка на курс                                     | Дата прохождения |
+|------------------------------------------------------------|---------------------------------------------------|------------------|
+| Алгоритмы: теория и практика. Структуры данных             | [Ссылка на курс](https://stepik.org/course/1547/info)                                | 31.05.2024       |
+| Основы работы с Git                                        | [Ссылка на курс](https://practicum.yandex.ru/profile/git-basics/?from=learn_subscriptions-with-prof-recommendations)                                | В процессе       |
+
 <h3 align="left">🌐 Социальные сети:</h3>
 
 <div align="left">
