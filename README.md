@@ -58,6 +58,7 @@
 | Алгоритмы: теория и практика. Структуры данных             | [Ссылка на курс](https://stepik.org/course/1547/info)                                | 31.05.2024       |
 | Основы работы с Git                                        | [Ссылка на курс](https://practicum.yandex.ru/profile/git-basics/?from=learn_subscriptions-with-prof-recommendations)                                | 27.06.2024       |
 | Основы HTML и CSS             | [Ссылка на курс](https://stepik.org/course/52164/info)                                |  27.06.2024      |
+| "Путь самурая. React JS            | [Ссылка на курс]([https://stepik.org/course/1547/info](https://www.youtube.com/watch?v=gb7gMluAeao&list=PLcvhF2Wqh7DNVy1OCUpG3i5lyxyBWhGZ8))                                | В процессе       |
 
 <h3 align="left">🌐 Социальные сети:</h3>
 
